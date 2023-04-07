@@ -1,0 +1,29 @@
+{
+  "name": "nodeestablishsql",
+  "version": "1.0.0",
+  "description": "Elegant node.js query builder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/91ahmed/nodeEstablishSQL.git"
+  },
+  "keywords": [
+    "nodejs_query_builder",
+    "nodejs_sql_builder",
+    "nodejs_mysql_builder",
+    "nodejs_postgresql_builder"
+  ],
+  "author": "ahmed hassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/91ahmed/nodeEstablishSQL/issues"
+  },
+  "homepage": "https://github.com/91ahmed/nodeEstablishSQL#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "pg": "^8.9.0"
+  }
+}
