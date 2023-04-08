@@ -540,7 +540,7 @@ database.query((sql) =>
 
 ### Truncate
 
-This method will truncate the specified table, and doesn't accept any parameters.
+This method will truncate the selected table.
 
 **Example**
 ``` javascript
