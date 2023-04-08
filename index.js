@@ -1,3 +1,3 @@
-const sqlEstablish = require('./src/connection')
+const nodeEstablishSQL = require('./src/connection')
 
-module.exports = sqlEstablish
+module.exports = nodeEstablishSQL
