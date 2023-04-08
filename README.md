@@ -37,13 +37,13 @@ Elegant node.js query builder, provide an interface for mysql and postgresql dri
 
 ### Install via npm
 ``` bash
-
+npm i node_establish_sql
 ```
 
 ### Full Example
 ``` javascript
 // require the package
-// const connection = require('establishsql')
+const connection = require('node_establish_sql')
 
 // Create connection
 const database = new connection({
