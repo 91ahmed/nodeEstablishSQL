@@ -1,6 +1,6 @@
 {
   "name": "node_establish_sql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elegant node.js query builder.",
   "main": "index.js",
   "scripts": {
